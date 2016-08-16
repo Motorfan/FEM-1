@@ -1,5 +1,5 @@
-# FEA
-This is a MATLAB implementation of the 2D elastic solid finite element method using DistMesh for mesh generation.
+# FEM
+This is a MATLAB implementation of the 2D elastic solid finite element method (FEM) using DistMesh for mesh generation.
 
 An explanation of the code is given in feaIntro.pdf.
 
