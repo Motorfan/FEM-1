@@ -5,6 +5,6 @@ The different meshing and solver functions are used in the example code fea2Dsol
 
 Main references:
 * The Finite Element Method: Theory and Practice (course notes by Prof. S. A. Meguid)
-* [Introduction to Finite Element Methods (ASEN 2007) course website] (http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/)
+* [Introduction to Finite Element Methods (ASEN 2007) course website](http://www.colorado.edu/engineering/CAS/courses.d/IFEM.d/)
 * Programming the Finite Element Method with MATLAB (by Jack Chessa)
-* [DistMesh website] (http://persson.berkeley.edu/distmesh/)
+* [DistMesh website](http://persson.berkeley.edu/distmesh/)
